@@ -1,0 +1,5 @@
+# This file contains build requirements that get picked up but are
+# undesirable. One entry per line, no whitespace.
+pypi(p5)
+pypi(vispy)
+pypi(y_py)
