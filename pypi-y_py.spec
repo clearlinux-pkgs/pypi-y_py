@@ -7,7 +7,7 @@
 #
 Name     : pypi-y_py
 Version  : 0.6.2
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/7a/4f/af6e0c02d6876fc466f0ae74ac01693f00d822a93830a9c3e84d17b03f8d/y_py-0.6.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7a/4f/af6e0c02d6876fc466f0ae74ac01693f00d822a93830a9c3e84d17b03f8d/y_py-0.6.2.tar.gz
 Source1  : http://localhost/cgit/vendor/pypi-y_py/snapshot/pypi-y_py-2024-05-22-19-17-54.tar.xz
